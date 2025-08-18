@@ -1,0 +1,94 @@
+# Web Framework
+fastapi
+python-multipart
+# ASGI Server
+uvicorn[standard]
+
+# ORM e Conector do banco de dados
+sqlalchemy
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv
+
+#----
+psycopg2-binary
+
+# Agendador de Tarefas
+APScheduler
+
+# OpenAI API para STT/TTS
+openai
+
+# Agendador de Tarefas
+APScheduler
+
+# Whisper Open Source (implementação otimizada)
+faster-whisper
+torch
+torchaudio
+
+# Cliente para armazenamento S3 (MinIO)
+minio
+
+
+python-slugify
+ollama
+gTTS
+
+# Web Framework
+fastapi
+python-multipart
+
+# ASGI Server
+uvicorn[standard]
+
+# ORM e Conector do Banco de Dados
+sqlalchemy
+psycopg2-binary
+
+# Gerenciamento de Variáveis de Ambiente
+python-dotenv
+
+# Agendador de Tarefas
+APScheduler
+
+# IA Local (STT) e Chamadas HTTP
+faster-whisper
+torch
+torchaudio
+ollama
+requests
+python-slugify
+
+# IA Local (TTS Estável)
+gTTS
+# Web Framework
+fastapi
+python-multipart
+
+# ASGI Server
+uvicorn[standard]
+
+# ORM e Conector do Banco de Dados
+sqlalchemy
+psycopg2-binary
+
+# Gerenciamento de Variáveis de Ambiente
+python-dotenv
+
+# Agendador de Tarefas
+APScheduler
+
+# IA Local (STT) e Chamadas HTTP
+faster-whisper
+torch
+torchaudio
+requests
+python-slugify
+
+# IA Local (TTS Estável)
+gTTS
+
+# IA do Google (NLU)
+google-generativeai
+elevenlabs
