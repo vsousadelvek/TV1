@@ -1,4 +1,4 @@
-# Projeto Teste: SDR Virtual para Imobiliária de Alto Padrão
+# SDR Virtual para Imobiliária de Alto Padrão
 
 ## 1. Descrição do Projeto
 
